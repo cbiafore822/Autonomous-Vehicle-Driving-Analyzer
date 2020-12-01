@@ -1,2 +1,6 @@
 # CS 7643 Final Project
  Final Project for Deep Learning containing models and data from the Comma AI dataset for longitudinal Behavior of Autonomous Vehicles
+
+
+# Running the CNN-LSTM model
+To run this model, open the CNN-LSTM model directory and start the jupyter notebook titled "comma_AI_Coles_Model.ipynb." This notebook contains everything needed for data extraction, data processing, training, and testing. Note that the 3 models designed in the notebook corresponds to different approaches to the problem. N2N_model1 is the model discussed in the final report. Training the model does not need to be done unless you would like to. This is because each model is saved in a .h5 file and their respective training history is also saved in a .npy file.
