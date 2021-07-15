@@ -1,4 +1,4 @@
-# Longitudnal Behavior of Autonomous Vehicles Model
+# Longitudnal Behavior of Autonomous Vehicles
  Deep Learning Project containing models and data from the Comma AI dataset for longitudinal behavior of Autonomous Vehicles
 
 
