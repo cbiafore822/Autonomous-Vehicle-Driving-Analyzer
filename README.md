@@ -1,5 +1,5 @@
-# CS 7643 Final Project
- Final Project for Deep Learning containing models and data from the Comma AI dataset for longitudinal behavior of Autonomous Vehicles
+# Longitudnal Behavior of Autonomous Vehicles Model
+ Deep Learning Project containing models and data from the Comma AI dataset for longitudinal behavior of Autonomous Vehicles
 
 
 Traditional radar-based adaptive cruise controllers are outdated, and unfortunately most of them cannot navigate in low speed due to the limitation of the radar.  The state of the art in AV industry is switching to camera-based solutions thanks to the recent development in computer vision and deep learning. To understand the behavior of existing AVs that use vision-based longitudinal motion planning,this study attempts three different methods to retrofit the AV longitudinal driving  behavior  (i.e.,  estimating  the  vehiclespeed and acceleration given video input). After retrofitting, we  can  obtain  a  deep  neural  net  model  to  describe  howthose black-box AVs will react to ambient traffic.  We also present a custom longitudinal control model that shows the potential to implement different driving style or address any special needs on speed control.
